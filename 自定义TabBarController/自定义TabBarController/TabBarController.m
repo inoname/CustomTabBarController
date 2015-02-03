@@ -75,7 +75,7 @@
     [self switchToVC:vc withAnimationType:@"pageCurl"];
     
     //改变按钮背景
-    [UIView animateWithDuration:0.5 animations:^{
+    [UIView animateWithDuration:0.1 animations:^{
         _whiteView.frame=btn.frame;
     }];
     
