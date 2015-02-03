@@ -1,4 +1,4 @@
-# -TabBarController
+# CustomTabBarController
 
 ##多控制器管理
 ```
